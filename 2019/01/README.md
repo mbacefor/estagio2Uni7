@@ -4,6 +4,7 @@
 
 **1. VP1**
    - Configuração Ferramenta de Controle de Versão - [GITHUB e git](https://github.com/mbacefor)
+     - [Curso de GIT para Iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/)
    - Planejamento Projeto - [Scrun] e [XMIND]
    - Prototipação do Projeto - [PENCIL]
    - Elaboração Arquitetura
