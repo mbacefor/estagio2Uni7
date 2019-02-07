@@ -1,6 +1,6 @@
 # Disciplina de 2019-01
 
-## Ementa da Disciplina Estagio II
+## Ementa da Disciplina: Estagio II
 
 **1. VP1**
    - Configuração Ferramenta de Controle de Versão - [GITHUB e git](https://github.com/mbacefor)
