@@ -3,7 +3,7 @@
 ## Ementa da Disciplina: Estagio II
 
 **1. VP1**
-   - Configuração Ferramenta de Controle de Versão - [GITHUB e git](https://github.com/mbacefor)
+   - Configuração Ferramenta de Controle de Versão - [GITHUB,git e tortoisegit](https://github.com/mbacefor)
      - [Curso de GIT para Iniciantes](https://www.udemy.com/git-e-github-para-iniciantes/)
    - Planejamento Projeto - [Scrun] e [XMIND]
    - Prototipação do Projeto - [PENCIL]
