@@ -50,4 +50,19 @@ Voltado para setor de saúde pública;
 	* Disparo de emails;
 * Chat;
 
+## 8. 3AGEM -> Wesley:
+* Gerar uma lista de com os melhores candidatos;
+* Filtro de candidatos através de um processo seletivo através de um questionário;
+* Cadastro de vagas;
+* Cadastro da prova(documento);
+* Disponibilizar a avaliação;
+* Integração com Google Docs ou Google Drive;
+
+## 9. AkiTemFesta -> Iaago:
+* Cadastro de Festas/Eventos;
+* Cadastro de Atrações;
+* Visualizar;
+* Cadastro das pessoas;
+* Cadastro de promoções;
+
 
