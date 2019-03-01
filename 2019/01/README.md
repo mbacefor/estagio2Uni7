@@ -15,3 +15,5 @@
 **3. VP3**
    - Implementação
    - Testes
+
+[Link grupo zap](https://chat.whatsapp.com/IywlNFnTCUfC90TRgbWLNE)
