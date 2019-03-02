@@ -65,4 +65,11 @@ Voltado para setor de saúde pública;
 * Cadastro das pessoas;
 * Cadastro de promoções;
 
+## 10. AdoptPet -> César, Zé, Bruno:
+* Cadastro do animal;
+* Cadastro de usuario;
+* Autenticação da aplicação;
+* Busca do animal;
+* Adoção do animal;
+
 
