@@ -1,15 +1,11 @@
-# Autenticação na Aplicação:
+# Realizar Cadastro de Usuário:
 
-Essa funcionalidade é responsável pela autenticação e cadastro usuário.
+Essa funcionalidade pelo cadastro de usuário (Edição e Criação).
 
 ### Cenários dessa funcionalidade:
 
-+ Logar na Aplicação:
-    - Nesse cenário o usuário previamente cadastrado loga na aplicação com seu login(email) e senha.
 + Cadastrar Novo Usuário
     - Nesse cenário o usuário ainda não esta cadastrado na aplicação e quer se cadastrar.
-+ Validar e-mail usuário
-    - Nesse cenário o usuário fez o seu primeiro cadastro ou alterou o e-mail, nesse caso precisa validar seu e-mail.
 + Editar Usuário
     - Esse cenário permite o usuário alterar os seus dados cadastrais e sua senha.
 
