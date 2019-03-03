@@ -2,6 +2,16 @@
 
 Essa funcionalidade pelo cadastro de usuário (Edição e Criação).
 
+## Telas
+
+- Tela Cadastro Novo Usuário
+
+  ![](telaNovoUsuario.png)
+
+  Tela edição do usuário
+
+  ![](TelaEditarUsuario.png)
+
 ### Cenários dessa funcionalidade:
 
 + Cadastrar Novo Usuário

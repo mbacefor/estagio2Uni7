@@ -1,7 +1,3 @@
----
-typora-copy-images-to: ..\..\..\telas
----
-
 # Autenticação na Aplicação
 
 ## Descrição
@@ -14,7 +10,7 @@ Obs: O cadastro do usuário é feito na funcionalidade [Realizar Cadastro do Cli
 
 - Tela de Login
 
-  ![Tela de Login](C:\Users\mbacefor\gitHUB\estagio2Uni7\2019\01\projetos\e-fiel\telas\telaLogin.png)
+  ![Tela de Login](telaLogin.png)
 
 ## Cenários dessa funcionalidade:
 
