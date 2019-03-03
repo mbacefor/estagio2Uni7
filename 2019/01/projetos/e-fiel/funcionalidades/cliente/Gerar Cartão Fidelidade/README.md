@@ -12,7 +12,7 @@ Esta funcionalidade permite o cliente consultar cartões disponíveis e gerar um
 
 - **Tela de busca e geração do Cartão**
 
-![Tela Filtrar e Gerar Cartão](..\..\..\telas\telaBuscarCartao.png)
+![Tela Filtrar e Gerar Cartão](telaBuscarCartao.png)
 
 
 
