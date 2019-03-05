@@ -1,4 +1,4 @@
-# Projetos:
+﻿# Projetos:
 ## 1. e-fiel -> Marcelo:
 Sistema de fidelidade com restaurantes, lanchonetes e bares;
 
@@ -17,6 +17,9 @@ Sistema de fidelidade com restaurantes, lanchonetes e bares;
 * Chat de Vendas;
 
 ## 4. Meu Lanche -> Paulo Aguiar:
+* Site de vendas delivery e local, através de reserva de mesa e compra on-line.
+* Cadastro de produtos, mesas e funcionários.
+* Adinistração de clientes, produtos, mesas e funcionários, pedidos e pagamentos.
 
 ### App:
 * Pedidos pelo App:
