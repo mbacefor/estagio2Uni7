@@ -4,5 +4,4 @@
 
 ## Alunos
 
-* Paulo Ricardo;
-* Hugo Torres;
+* 
