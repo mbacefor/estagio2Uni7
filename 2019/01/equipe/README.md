@@ -4,4 +4,4 @@
 
 ## Alunos
 
-* 
+* Hugo de Oliveira Torres
