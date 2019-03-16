@@ -17,7 +17,7 @@ Sistema de fidelidade com restaurantes, lanchonetes e bares;
 * Controle de Acesso;
 * Chat de Vendas;
 
-## 4. Meu Lanche -> Paulo Aguiar:
+## 4. Meu Lanche -> Paulo Ricardo Aguiar e Paulo Ricardo Barbosa
 * Site de vendas delivery e local, através de reserva de mesa e compra on-line.
 * Cadastro de produtos, mesas e funcionários.
 * Adinistração de clientes, produtos, mesas e funcionários, pedidos e pagamentos.
