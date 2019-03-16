@@ -37,13 +37,10 @@
 
 - Escolha uma das funcionalidades que você vai implementar e faça um descrição do que vai ser essa funcionalidades, com seu cenários de uso e regras de negócio.
 
-***Fazendo um Pedido no Estabelecimento
+<font color="#f89"> Fazendo um Pedido no Estabelecimento(_ML0201W_)</font>
 
-Entrando no Sistema Web, o usuário escolhe os itens do cardápio que o cliente deseja e adiciona no kit.
-Ao escolher os itens, o usuário finaliza o pedido observando uma tela de resumo contendo os itens, suas
-quantidades e o total da compra. Confirmando a finalização, o usuário escolhe o método de pagamento, que
-pode ser com cartões de Débito, Crédito ou em espécie. Com isso o cliente pode esperar em uma mesa de livre
-escolha, esperando o seu pedido a partir de uma senha.
+Entrando no Sistema Web, o usuário escolhe os itens do cardápio que o cliente deseja e adiciona no kit. Ao escolher os itens, o usuário finaliza o pedido observando uma tela de resumo contendo os itens, suas quantidades e o total da compra. Confirmando a finalização, o usuário escolhe o método de pagamento, que pode ser com cartões de Débito, Crédito ou em espécie. Com isso o cliente pode esperar em uma mesa de livre escolha, esperando o seu pedido a partir de uma senha.
+
 
 ### **Questão 5. **Arquitetura
 
