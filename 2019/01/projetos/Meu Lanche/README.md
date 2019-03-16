@@ -2,6 +2,7 @@
 **01 de Março de 2019**
 
 * Paulo Ricardo Aguiar Bernardo
+
 * Paulo Ricardo Barbosa Sousa
 
 
