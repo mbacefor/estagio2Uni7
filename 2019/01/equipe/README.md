@@ -4,4 +4,5 @@
 
 ## Alunos
 
-* Meu nome é Paulo Ricardo Barbosa Sousa
+* Meu nome ï¿½ Paulo Ricardo Barbosa Sousa
+* Hugo de Oliveira Torres

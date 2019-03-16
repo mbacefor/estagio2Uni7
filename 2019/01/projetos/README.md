@@ -2,12 +2,13 @@
 ## 1. e-fiel -> Marcelo:
 Sistema de fidelidade com restaurantes, lanchonetes e bares;
 
-## 2. myChashFlow -> Hugo:
+## 2. myChashFlow:
 * Gerenciamentos de parcelas e outras despesas recorrentes;
 * Controle de Gastos;
 * Importação de arquivos bancários(CSV,OFX,...);
 * Integração com Google Docs e Google drive;
-
+### Equipe: 
+* Hugo Torres;
 ## 3. eComTrust -> Arthur:
 * Site de Vendas(Plataforma);
 * Gerador de Sites de Vendas;
