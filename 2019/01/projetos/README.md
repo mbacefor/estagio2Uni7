@@ -45,7 +45,7 @@ Voltado para setor de saúde pública;
 * Gerador de senhas(Dia, Horário, Local);
 * Controle de Senhas;
 
-## 7. eStatus -> Matheus:
+## 7. eStatus -> Matheus, Davi, Vitor:
 
 * Cadastro de processos
 * Busca de Informação dos processos;
