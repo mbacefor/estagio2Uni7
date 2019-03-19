@@ -1,4 +1,4 @@
-# Disciplina de 2019-01
+﻿# Disciplina de 2019-01
 
 ## Prof Marcelo 
 
@@ -6,3 +6,4 @@
 
 * Meu nome � Paulo Ricardo Barbosa Sousa
 * Hugo de Oliveira Torres
+* Meu nome é Davi Trigueiro Sampaio
