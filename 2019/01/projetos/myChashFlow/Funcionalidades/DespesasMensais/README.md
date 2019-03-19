@@ -8,9 +8,7 @@ Essa funcionalidade é responsável pelo cadastro de novas despesas.
 
 ## Telas
 
-- Tela de Despesas Mensais
-
-  ![Despesas](C:\Users\Wescley\Documents\Projetos\estagio2Uni7\2019\01\projetos\myChashFlow\Funcionalidades\DespesasMensais\Despesas.png)
+![Screenshot](Despesas.png)
 
 ## Cenários dessa funcionalidade:
 
