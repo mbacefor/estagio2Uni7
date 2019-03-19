@@ -58,7 +58,7 @@ Backend:
 * Persistência de dados com Hibernate
 
 Base de Dados:
-*MySQL
+*PostgreSQL
 
 
 
