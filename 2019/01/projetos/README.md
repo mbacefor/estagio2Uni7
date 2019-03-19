@@ -9,6 +9,7 @@ Sistema de fidelidade com restaurantes, lanchonetes e bares;
 * Integração com Google Docs e Google drive;
 ### Equipe: 
 * Hugo Torres;
+* Wescley Brasil;
 ## 3. eComTrust -> Arthur:
 * Site de Vendas(Plataforma);
 * Gerador de Sites de Vendas;
