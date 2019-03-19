@@ -8,6 +8,8 @@ Essa funcionalidade é responsável pelo cadastro de novas despesas.
 
 ## Telas
 
+- Tela de Despesas Mensais.
+
 ![Screenshot](Despesas.png)
 
 ## Cenários dessa funcionalidade:
