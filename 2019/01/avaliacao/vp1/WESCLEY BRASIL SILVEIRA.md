@@ -35,7 +35,7 @@ Escolha uma das funcionalidades que você vai implementar e elabore o protótipo
 
 - **Despesas Mensais**
 
-  ![Despesas](C:\Users\Wescley\Desktop\Despesas.png)
+  ![Screenshot](Despesas.png)
 
 
 
