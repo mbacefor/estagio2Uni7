@@ -7,3 +7,4 @@
 * Meu nome � Paulo Ricardo Barbosa Sousa
 * Hugo de Oliveira Torres
 * Meu nome é Davi Trigueiro Sampaio
+* Meu nome é Christian Pompeu da Silva
