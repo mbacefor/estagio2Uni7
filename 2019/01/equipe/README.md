@@ -5,11 +5,19 @@
 ## Alunos
 
 * Meu nome � Paulo Ricardo Barbosa Sousa
-* Hugo de Oliveira Torres
+* Meu nome é Paulo Ricado Aguiar Bernardo
+* Meu nome é Hugo de Oliveira Torres
 * Meu nome é Davi Trigueiro Sampaio
-* Meu nome é Christian Pompeu da Silva
-<<<<<<< HEAD
 * Meu nome é Lucas Gabriel de Oliveira
-=======
 * Meu nome é Wesley Henrique Augusto Brito dos Santos
->>>>>>> 6d9f3381c91add3dd93f5fceb55de14a8b20e628
+* Meu nome é Diego Lima Brandão
+* Meu nome é Christian Pompeu
+* Meu nome é Renan Almeida da Silva
+* Meu nome é Emerson Iago Beserra de Araujo
+* Meu nome é César Luciano de Oliveira Filho
+* Meu nome é Bruno Ximenes Ponte
+* Meu nome é José Carlos Cruz Esmeraldo Neto
+* Meu nome é Artur Bruno de Sena Santana
+
+
+

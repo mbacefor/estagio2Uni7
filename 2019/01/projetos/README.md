@@ -10,6 +10,7 @@ Sistema de fidelidade com restaurantes, lanchonetes e bares;
 ### Equipe: 
 * Hugo Torres;
 * Wescley Brasil;
+* Renan Almeida da Silva;
 ## 3. eComTrust -> Artur Bruno e Lucas Gabriel:
 * Site de Vendas(Plataforma);
 * Gerador de Sites de Vendas;
@@ -32,9 +33,14 @@ Sistema de fidelidade com restaurantes, lanchonetes e bares;
 * Cadastro de Produtos;
 * Cadastro de Clientes;
 
-## 5.  VEC -> Diego:
-* Controle de Estoques interno;
+## 5.  VEC -> Diego Lima Brandão:
+O projeto VEC tratasse de um sistema que permitira ao
+usuario fazer o controle interno de vendas, controle de estoque
+e controle de clientes em uma distribuidora de água.
+
+* Controle de Estoque interno;
 * Cadastro de clientes;
+* Cadstro de fornecedores
 * Controle de Vendas;
 
 ## 6. Projeto UBS -> Fernando:
@@ -77,4 +83,22 @@ Voltado para setor de saúde pública;
 * Busca do animal;
 * Adoção do animal;
 
-
+## 11. myBrary -> Christian Pompeu <https://github.com/christianpompeu/myBrary/blob/master/README.md>:
+#### Aplicação para manter uma bilbioteca pessoal.
+* Cadastrar a própria Biblioteca;
+* Manter os Livros
+	* Manter os títulos
+	* Manter os volumes
+	* Manter Gêneros
+	* Manter Autores
+	* Manter tipo de item
+* Manter Usuários:
+	* Cadastrar Usuários que fazem empréstimos
+* Manter Empréstimos:
+	* Controlar o empréstimo dos volumes
+	* Verificar os Atrasos
+	* Notificar
+* Reservar Livros
+* Manter lista de leitura
+* Criar trilhas de leitura
+* Controlar lista de aquisições
