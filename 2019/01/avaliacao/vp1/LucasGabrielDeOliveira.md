@@ -39,6 +39,12 @@
 
 - Descreva como será a arquitetura do seu sistema.
 
+- no froend : ReactJS 
+
+- no backend : Django Rest Framework 
+
+- banco de dados: postgres
+
 
 
 
