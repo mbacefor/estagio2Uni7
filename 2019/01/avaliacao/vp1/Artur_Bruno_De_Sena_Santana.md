@@ -41,7 +41,7 @@
 
 - Escolha uma das funcionalidades que você vai implementar e faça um descrição do que vai ser essa funcionalidades, com seu cenários de uso e regras de negócio.
 
-<font color="#f89"> Cadastrar um Usuário (_ML0201W_)</font>
+<font color="#f89"> Cadastrar um Usuário </font>
 
 Ao acessar o sistema, o usuário poderá realizar seu cadastro para manter seus dados salvos no ecommerce para facilidade de recuperação de suas informações.
 
