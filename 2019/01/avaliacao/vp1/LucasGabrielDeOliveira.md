@@ -29,11 +29,15 @@
 
 - Escolha uma das funcionalidades que você vai implementar e elabore o protótipo de tela.
 
+- a imagem está dentro da pasta do projeto.
+
 
 
 ### **Questão 4. **Planejamento
 
 - Escolha uma das funcionalidades que você vai implementar e faça um descrição do que vai ser essa funcionalidades, com seu cenários de uso e regras de negócio.
+
+- A funcionalidade de cadastrar categorias de produtos é uma funcionalidade para que o cliente que adquirir o softaware possa cadastrar várias categorias de produtos , de acordo com o seu negócio , o cliente pode incluir novas categorias a qualquer momento, pode-se também excluir categorias, além de poder também desativar provisioramente determinadas categorias.
 
 ### **Questão 5. **Arquitetura
 
