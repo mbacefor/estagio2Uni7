@@ -23,13 +23,13 @@
 ### **Questão 2. **xMind
 
 - Adicione o seu nome como membro da equipe no mapa mental se seu projeto. Qual o seu projeto? 
-   **eStatus**
+   **eComTrust**
 
    - Identifique no mapa mental, quais funcionalidades você vai implementar.
 
 	- Cadastrar Usuário
-	- Autenticação Aplicação
-	- Cadastrar Processo
+	- Autenticação 
+	- Cadastrar
 
 ### **Questão 3. **Pencil
 
@@ -41,24 +41,22 @@
 
 - Escolha uma das funcionalidades que você vai implementar e faça um descrição do que vai ser essa funcionalidades, com seu cenários de uso e regras de negócio.
 
-<font color="#f89"> Registrar um Processo (_ML0201W_)</font>
+<font color="#f89"> Cadastrar um Usuário (_ML0201W_)</font>
 
-Entrando no Sistema Web, o usuário(Prestador de Serviço) vai poder criar um novo processo para ser acompanhado por ele e pelo cliente. Após criado o processo é possível monitorar o andamento do mesmo e manter contato direto com o cliente através da aplicação.
+Ao acessar o sistema, o usuário poderá realizar seu cadastro para manter seus dados salvos no ecommerce para facilidade de recuperação de suas informações.
 
 
 ### **Questão 5. **Arquitetura
 
 - Descreva como será a arquitetura do seu sistema.
 Frontend:
-* Angular 6
+* ReactJS
 
 Backend:
-* Java usando Spring Boot
-* Arquitetura RestFull
-* Persistência de dados com Hibernate
+* Django, Usando Django REST framework para API.
 
 Base de Dados:
-*PostgreSQL
+* PostgreSQL
 
 
 
