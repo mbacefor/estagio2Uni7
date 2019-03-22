@@ -35,7 +35,8 @@
 
 - Escolha uma das funcionalidades que você vai implementar e elabore o protótipo de tela.
   -Cadastrar Processo
-  ![Tela de Cadastro de Processo](inserirProcesso.PNG)
+  ![Tela de Cadastro de Processo](https://github.com/mbacefor/estagio2Uni7/blob/master/2019/01/projetos/eStatus/Telas/inserirProcesso.png)
+  
   OBS: Tela elaborado com photoshop usando como base outra tela de inspiração.
 
 
