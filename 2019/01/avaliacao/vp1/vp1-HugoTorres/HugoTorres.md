@@ -36,9 +36,9 @@
 
 - Escolha uma das funcionalidades que você vai implementar e elabore o protótipo de tela.
    * Controle de Contas e Faturas;
-      * ![Renda e Recursos](./contasFatura.png)
+      * ![Renda e Recursos](./contasFatura.PNG)
    * Controle de Dívidas;
-      * ![Dívidas](./Dívidas.png)
+      * ![Dívidas](./Dívidas.PNG)
 
 ### **Questão 4.** Planejamento
 
