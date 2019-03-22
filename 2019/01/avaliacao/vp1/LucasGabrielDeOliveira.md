@@ -1,7 +1,8 @@
-img	CENTRO UNIVERSITÁRIO 7 DE SETEMBRO	
+CENTRO UNIVERSITÁRIO 7 DE SETEMBRO	
 Curso:	Sistema de Informação	
 Disciplina: Estágio II	**Professor (a):**Marcelo Bezerra	Data: 22/03/2019
 Aluno:	lUCAS Gabriel de Oliveira Bento	Avaliação:
+
 V1 – Primeira Chamada	
 **Questão 1. **Controle de versão - GIT
 Crie nesta mesma pasta um documento com o mesmo formato mudando para o seu nome completo e responda a prova.
