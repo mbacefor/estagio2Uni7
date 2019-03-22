@@ -10,7 +10,7 @@ Sistema de fidelidade com restaurantes, lanchonetes e bares;
 ### Equipe: 
 * Hugo Torres;
 * Wescley Brasil;
-## 3. eComTrust -> Arthur:
+## 3. eComTrust -> Artur Bruno e Lucas Gabriel:
 * Site de Vendas(Plataforma);
 * Gerador de Sites de Vendas;
 * Cadastro de Produtos;
