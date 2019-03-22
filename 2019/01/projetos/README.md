@@ -77,4 +77,22 @@ Voltado para setor de saúde pública;
 * Busca do animal;
 * Adoção do animal;
 
-
+## 11. myBrary -> Christian Pompeu:
+#### Aplicação para manter uma bilbioteca pessoal.
+* Cadastrar a própria Biblioteca;
+* Manter os Livros
+	* Manter os títulos
+	* Manter os volumes
+	* Manter Gêneros
+	* Manter Autores
+	* Manter tipo de item
+* Manter Usuários:
+	* Cadastrar Usuários que fazem empréstimos
+* Manter Empréstimos:
+	* Controlar o empréstimo dos volumes
+	* Verificar os Atrasos
+	* Notificar
+* Reservar Livros
+* Manter lista de leitura
+* Criar trilhas de leitura
+* Controlar lista de aquisições
