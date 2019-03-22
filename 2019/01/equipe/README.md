@@ -8,3 +8,4 @@
 * Hugo de Oliveira Torres
 * Meu nome é Davi Trigueiro Sampaio
 * Meu nome é Christian Pompeu da Silva
+* Meu nome é Wesley Henrique Augusto Brito dos Santos
