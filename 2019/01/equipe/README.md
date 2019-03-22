@@ -12,3 +12,4 @@
 * Meu nome é Wesley Henrique Augusto Brito dos Santos
 * Meu nome é Diego Lima Brandão
 * Meu nome é Christian Pompeu
+* Meu nome é Renan Almeida da Silva
