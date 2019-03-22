@@ -13,7 +13,7 @@
 
    - Acesse o arquivo README.md da pasta equipe e adicione o seu nome e crie uma nova versão colocando como comentário: "Meu nome é:"+<seu nome completo>
 
-   - Veja qual é o terceiro comentário (histórico) que existe no arquivo README.md da pasta inicial do repositório.
+   - Veja qual é o terceiro comentário (histórico) que existe no arquivo README.md da pasta inicial do repositório. **"Foto prof Marcelo"**
 
    - Adicione o seu nome no arquivo README.md na pasta projetos. Seu nome deve ser colocado no projeto que você vai participar. Se não tiver o projeto crie.
 
