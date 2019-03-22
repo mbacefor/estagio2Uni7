@@ -12,7 +12,11 @@
 * Meu nome é Wesley Henrique Augusto Brito dos Santos
 * Meu nome é Diego Lima Brandão
 * Meu nome é Christian Pompeu
+* Meu nome é Renan Almeida da Silva
 * Meu nome é Emerson Iago Beserra de Araujo
 * Meu nome é César Luciano de Oliveira Filho
+* Meu nome é Bruno Ximenes Ponte
 * Meu nome é José Carlos Cruz Esmeraldo Neto
-* Meu nome é Bruno Ximenes Ponte 
+
+
+
