@@ -3,12 +3,12 @@
 
 ### Visão geral:
 
-O projeto **myCashFlow** tem como objetivo de auxiliar no planejamento e gerenciamento de despesas domésticas. Um sistema desse tipo pode auxiliar melhoria da saúde financeira do usário, principalmente em tempos de crise econômica.
+O projeto **myCashFlow** tem como objetivo de auxiliar no planejamento e gerenciamento de despesas domésticas. Um sistema desse tipo pode auxiliar melhoria da saúde financeira do usuário, principalmente em tempos de crise econômica.
 
 
 ### Objetivos Geral:
 
-Auxiliar na otimização das despesas domésticas mensais permitindo que usuário consigar identificas as despesas supérfulas.
+Auxiliar na otimização das despesas domésticas mensais permitindo que usuário consiga identificar as despesas supérfulas.
 
 ### Objetivo Específico:
 
