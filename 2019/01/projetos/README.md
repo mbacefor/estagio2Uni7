@@ -77,7 +77,7 @@ Voltado para setor de saúde pública;
 * Busca do animal;
 * Adoção do animal;
 
-## 11. myBrary -> Christian Pompeu:
+## 11. myBrary -> Christian Pompeu <https://github.com/christianpompeu/myBrary/blob/master/README.md>:
 #### Aplicação para manter uma bilbioteca pessoal.
 * Cadastrar a própria Biblioteca;
 * Manter os Livros
