@@ -34,7 +34,9 @@
 ### **Questão 3. **Pencil
 
 - Escolha uma das funcionalidades que você vai implementar e elabore o protótipo de tela.
-
+  -Cadastrar Processo
+  ![Tela de Cadastro de Processo](inserirProcesso.PNG)
+  OBS: Tela elaborado com photoshop usando como base outra tela de inspiração.
 
 
 ### **Questão 4. **Planejamento
@@ -45,6 +47,18 @@
 
 Entrando no Sistema Web, o usuário(Prestador de Serviço) vai poder criar um novo processo para ser acompanhado por ele e pelo cliente. Após criado o processo é possível monitorar o andamento do mesmo e manter contato direto com o cliente através da aplicação.
 
+
+ Cenários de uso:
+  
+- Usuário logado no sistema.
+
+
+ Regras de Negócio:
+  
+- Para fazer essa funcionalidade, o usuário deve ter feito cadastro e login no sistema.
+- É necessário que o usuário esteja logado com o perfil de Prestador de Serviço
+- Todos os campos de cadastro devem ser preenchidos.
+- Deve ter ao menos um prestador de serviço e um cliente.
 
 ### **Questão 5. **Arquitetura
 
