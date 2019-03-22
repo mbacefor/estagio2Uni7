@@ -34,7 +34,9 @@
 ### **Questão 3. **Pencil
 
 - Escolha uma das funcionalidades que você vai implementar e elabore o protótipo de tela.
+- Cadastrar Usuário
 
+[![signup](https://raw.githubusercontent.com/mbacefor/estagio2Uni7/master/2019/01/projetos/eComTrust/cadastrodeusuario.png)]
 
 
 ### **Questão 4. **Planejamento

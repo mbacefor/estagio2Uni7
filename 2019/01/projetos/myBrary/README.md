@@ -1,20 +1,25 @@
-# myCashFlow:
+# myBrary
+![Ícone da aplicação](myBrary_icon.jpg)
 
 
 ### Visão geral:
 
-O projeto **myCashFlow** tem como objetivo de auxiliar no planejamento e gerenciamento de despesas domésticas. Um sistema desse tipo pode auxiliar melhoria da saúde financeira do usário, principalmente em tempos de crise econômica.
+> O projeto **![myBrary](https://github.com/christianpompeu/myBrary)** trata-se de uma aplicação web simples e de interface amigável para que um usuário possa administrar sua biblioteca pessoal.
+> Essa gestão deve-se dar por meio do controledos cadastros e processos inerentes a uma biblioteca de pequeno porte.
+> Visa também permitir que outros usuários se cadastrem como usuários de uma determinada biblioteca e possam reservar e também "pegar" itens emprestados da biblioteca.
 
 
 ### Objetivos Geral:
 
-Auxiliar na otimização das despesas domésticas mensais permitindo que usuário consigar identificas as despesas supérfulas.
+Auxiliar no controle dos registros e processos de um acervo de pequeno porte
 
 ### Objetivo Específico:
 
-* Realização de planejamento das despesas do mês seguinte;
-* Realizar o controle das despesas mensais;
+* Cadastrar os volumes que possui
+* Cadastrar e gerie empréstimos para usuários diversos
+* Reservar e solicitar livros emprestados
 
 ### Público Alvo:
-Direcionados a chefes de família que necessitam ter uma maneira prática de indentificar quais despesas fogem das necessidades básicas.
+
+Pessoas que estejam na empreitada de gerir sua biblioteca pessoal.
 

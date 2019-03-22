@@ -17,6 +17,7 @@
 * Meu nome é César Luciano de Oliveira Filho
 * Meu nome é Bruno Ximenes Ponte
 * Meu nome é José Carlos Cruz Esmeraldo Neto
+* Meu nome é Artur Bruno de Sena Santana
 
 
 
