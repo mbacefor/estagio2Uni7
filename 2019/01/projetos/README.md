@@ -32,9 +32,14 @@ Sistema de fidelidade com restaurantes, lanchonetes e bares;
 * Cadastro de Produtos;
 * Cadastro de Clientes;
 
-## 5.  VEC -> Diego:
-* Controle de Estoques interno;
+## 5.  VEC -> Diego Lima Brandão:
+O projeto VEC tratasse de um sistema que permitira ao
+usuario fazer o controle interno de vendas, controle de estoque
+e controle de clientes em uma distribuidora de água.
+
+* Controle de Estoque interno;
 * Cadastro de clientes;
+* Cadstro de fornecedores
 * Controle de Vendas;
 
 ## 6. Projeto UBS -> Fernando:
