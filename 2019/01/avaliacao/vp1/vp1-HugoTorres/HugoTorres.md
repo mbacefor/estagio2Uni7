@@ -15,7 +15,8 @@
       * [9c66dffbe1277d1908377ef6c6ecfcc65d8ca1e4](https://github.com/mbacefor/estagio2Uni7/blob/9c66dffbe1277d1908377ef6c6ecfcc65d8ca1e4/2019/01/equipe/README.md)
 
    - Veja qual é o terceiro comentário (histórico) que existe no arquivo README.md da pasta inicial do repositório.
-   
+      * [191e323da69878ca5d59268bf63e5023cd44e64e](https://github.com/mbacefor/estagio2Uni7/commit/191e323da69878ca5d59268bf63e5023cd44e64e#diff-04c6e90faac2675aa89e2176d2eec7d8)
+
 
    - Adicione o seu nome no arquivo README.md na pasta projetos. Seu nome deve ser colocado no projeto que você vai participar. Se não tiver o projeto crie.
       * [4fe98b31b4fd677b50c18e325214c18fb021d4ea](https://github.com/mbacefor/estagio2Uni7/commit/4fe98b31b4fd677b50c18e325214c18fb021d4ea)
@@ -27,7 +28,7 @@
 - Adicione o seu nome como membro da equipe no mapa mental se seu projeto. Qual o seu projeto?
 
    - Identifique no mapa mental, quais funcionalidades você vai implementar.
-      * [Mapa Mental myCashFlow](https://github.com/mbacefor/estagio2Uni7/blob/master/2019/01/projetos/myChashFlow/myCashFlow-Plano%20de%20Projeto.xmap)
+      * [Mapa Mental myCashFlow](https://github.com/mbacefor/estagio2Uni7/blob/master/2019/01/projetos/myCashFlow/myCashFlow-Plano%20de%20Projeto.xmap)
 
 
 
