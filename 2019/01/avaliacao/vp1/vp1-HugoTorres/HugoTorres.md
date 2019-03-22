@@ -35,7 +35,9 @@
 
 - Escolha uma das funcionalidades que você vai implementar e elabore o protótipo de tela.
    * Controle de Contas e Faturas;
+      * ![Renda e Recursos](./contasFatura.png)
    * Controle de Dívidas;
+      * ![Dívidas](./Dívidas.png)
 
 ### **Questão 4.** Planejamento
 
@@ -51,7 +53,7 @@
       * Listar Dívidas: Essa funcionalidade permite ao usuário visualizar todas as dívidas com seus valores totais juntamente com os valores de suas faturas mensais e das pendências a serem pagas.
       * Adicionar Dívida: Essa funcionalidade permite que o usuário adicione uma dívidas e as suas respectivas faturas que estarão nas lista de `Contas e Faturas`
       * Adicionar pendência: Essa funcionalidade permite marcar uma conta/fatura como pendência no caso ela esteja em atraso.
-### **Questão 5.**Arquitetura
+### **Questão 5.** Arquitetura
 
 - Descreva como será a arquitetura do seu sistema.
    * MERN:
