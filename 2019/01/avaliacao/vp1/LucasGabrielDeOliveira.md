@@ -2,7 +2,7 @@
 | ------------------------------------------------------------ | :------------------------------------- | :------------------- |
 | **Curso:**                                                   | Sistema de Informação                  |                      |
 | **Disciplina:** Estágio II                                   | **Professor (a):**Marcelo Bezerra      | **Data:** 22/03/2019 |
-| **Aluno:**                                                   |                                        | **Avaliação:**       |
+| **Aluno:**Lucas Gabriel de Oliveira                                                   |                                        | **Avaliação:**       |
 |                                                              | **V1 – Primeira Chamada**              |                      |
 
 ### **Questão 1. **Controle de versão - GIT
