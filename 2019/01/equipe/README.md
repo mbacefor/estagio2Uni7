@@ -9,10 +9,10 @@
 * Meu nome é Hugo de Oliveira Torres - OK
 * Meu nome é Davi Trigueiro Sampaio
 * Meu nome é Lucas Gabriel de Oliveira
-* Meu nome é Wesley Henrique Augusto Brito dos Santos
+* Meu nome é Wesley Henrique Augusto Brito dos Santos - ok
 * Meu nome é Diego Lima Brandão
 * Meu nome é Christian Pompeu
-* Meu nome é Renan Almeida da Silva
+* Meu nome é Renan Almeida da Silva - Ok
 * Meu nome é Emerson Iago Beserra de Araujo
 * Meu nome é César Luciano de Oliveira Filho
 * Meu nome é Bruno Ximenes Ponte
@@ -21,3 +21,4 @@
 * Matheus Freitas Cezar
 * Vitor Jorge Vasconcelos
 * Meu nome é Fernando Igor
+
