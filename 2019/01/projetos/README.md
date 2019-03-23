@@ -43,7 +43,7 @@ e controle de clientes em uma distribuidora de água.
 * Cadstro de fornecedores
 * Controle de Vendas;
 
-## 6. Projeto UBS -> Fernando:
+## 6. Projeto UBS -> Fernando Igor:
 Voltado para setor de saúde pública;
 * Localizar Serviço:
 	* Serviços;
