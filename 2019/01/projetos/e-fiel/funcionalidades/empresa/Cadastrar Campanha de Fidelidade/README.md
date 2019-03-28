@@ -1,4 +1,4 @@
-# Cadastrar Cartão Fidelidade:
+# Cadastrar Campanha de Fidelidade:
 
 
 
