@@ -61,7 +61,7 @@ Voltado para setor de saúde pública;
 	* Disparo de emails;
 * Chat;
 
-## 8. 3AGEM -> Wesley:
+## 8. NATAGUAVA -> Wesley, Denis:
 * Gerar uma lista de com os melhores candidatos;
 * Filtro de candidatos através de um processo seletivo através de um questionário;
 * Cadastro de vagas;
