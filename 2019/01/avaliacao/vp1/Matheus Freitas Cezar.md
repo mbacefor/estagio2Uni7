@@ -4,41 +4,40 @@
 | ------------------------------------------------------------ | :------------------------------------- | :------------------- |
 | **Curso:**                                                   | Sistema de Informação                  |                      |
 | **Disciplina:** Estágio II                                   | **Professor (a):**Marcelo Bezerra      | **Data:** 22/03/2019 |
-| **Aluno:** Matheus Cezar				       |                                        | **Avaliação:**       |
+| **Aluno:** Matheus Cezar                                     |                                        | **Avaliação:** 8     |
 |                                                              | **V1 – Primeira Chamada**              |                      |
 
-### **Questão 1. **Controle de versão - GIT
+### **Questão 1. **Controle de versão - GIT - 2,0
 
-   - Crie nesta mesma pasta um documento com o mesmo formato mudando para o seu nome completo e responda a prova.
+   - Crie nesta mesma pasta um documento com o mesmo formato mudando para o seu nome completo e responda a prova. - Ok
 
-   - Acesse o arquivo README.md da pasta equipe e adicione o seu nome e crie uma nova versão colocando como comentário: "Meu nome é:"+<seu nome completo>
+   - Acesse o arquivo README.md da pasta equipe e adicione o seu nome e crie uma nova versão colocando como comentário: "Meu nome é:"+<seu nome completo>-ok
 
    - Veja qual é o terceiro comentário (histórico) que existe no arquivo README.md da pasta inicial do repositório.
-	"Foto prof Marcelo"
+	"Foto prof Marcelo" - Ok
 	
 	Foto prof Marcelo
 
-   - Adicione o seu nome no arquivo README.md na pasta projetos. Seu nome deve ser colocado no projeto que você vai participar. Se não tiver o projeto crie.
+   - Adicione o seu nome no arquivo README.md na pasta projetos. Seu nome deve ser colocado no projeto que você vai participar. Se não tiver o projeto crie. -ok
 
      
-### **Questão 2. **xMind
+### **Questão 2. **xMind 2,0
 
 - Adicione o seu nome como membro da equipe no mapa mental se seu projeto. Qual o seu projeto? 
    **eStatus**
-
-   - Identifique no mapa mental, quais funcionalidades você vai implementar.
-
-	- Download/Leitura/Busca do processo
+- Identifique no mapa mental, quais funcionalidades você vai implementar.
+   
+- Download/Leitura/Busca do processo
 	- Envio de notificações dos processo
 	- Atualização dos status do processo
 
-### **Questão 3. **Pencil
+### **Questão 3. **Pencil - 0 - Não tem essa imagem
 
 - Escolha uma das funcionalidades que você vai implementar e elabore o protótipo de tela.
 
  ![Tela de Acompanhamento de Processo](https://github.com/mbacefor/estagio2Uni7/blob/master/2019/01/projetos/eStatus/Telas/acompanharProcesso.png)
 
-### **Questão 4. **Planejamento
+### **Questão 4. **Planejamento- 2
 
 - Escolha uma das funcionalidades que você vai implementar e faça um descrição do que vai ser essa funcionalidades, com seu cenários de uso e regras de negócio.
 
@@ -47,7 +46,7 @@
 O sistema terá um bot que diariamente fará o download dos despachos do dia, que é disponibilizado em pdf no site do TJE.
 Com estas informações faremos a leitura e busco dos dados acerca dos processos cadaastrados no nosso sistema.
 
-### **Questão 5. **Arquitetura
+### **Questão 5. **Arquitetura -2,0
 
 - Descreva como será a arquitetura do seu sistema.
 Frontend:

@@ -4,23 +4,23 @@
 | ------------------------------------------------------------ | :------------------------------------- | :------------------- |
 | **Curso:**                                                   | Sistema de Informação                  |                      |
 | **Disciplina:** Estágio II                                   | **Professor (a):**Marcelo Bezerra      | **Data:** 22/03/2019 |
-| **Aluno:**                                                   |                                        | **Avaliação:**       |
+| **Aluno:**                                                   |                                        | **Avaliação:** 10    |
 |                                                              | **V1 – Primeira Chamada**              |                      |
 
-### **Questão 1. **Controle de versão - GIT
+### **Questão 1. **Controle de versão - GIT - 2
 
-   - Crie nesta mesma pasta um documento com o mesmo formato mudando para o seu nome completo e responda a prova.
+   - Crie nesta mesma pasta um documento com o mesmo formato mudando para o seu nome completo e responda a prova. - ok
 
-   - Acesse o arquivo README.md da pasta equipe e adicione o seu nome e crie uma nova versão colocando como comentário: "Meu nome é:"+<seu nome completo>
+   - Acesse o arquivo README.md da pasta equipe e adicione o seu nome e crie uma nova versão colocando como comentário: "Meu nome é:"+<seu nome completo> - ok 
 
-   - Veja qual é o terceiro comentário (histórico) que existe no arquivo README.md da pasta inicial do repositório.
+   - Veja qual é o terceiro comentário (histórico) que existe no arquivo README.md da pasta inicial do repositório.- ok
 	"Foto do Professor Marcelo"
 
-   - Adicione o seu nome no arquivo README.md na pasta projetos. Seu nome deve ser colocado no projeto que você vai participar. Se não tiver o projeto crie.
+   - Adicione o seu nome no arquivo README.md na pasta projetos. Seu nome deve ser colocado no projeto que você vai participar. Se não tiver o projeto crie.- ok
 
      
 
-### **Questão 2. **xMind
+### **Questão 2. **xMind -2
 
 - Adicione o seu nome como membro da equipe no mapa mental se seu projeto. Qual o seu projeto?
 
@@ -70,14 +70,14 @@ Funcionalidades:
 
 
 
-### **Questão 3. **Pencil
+### **Questão 3. **Pencil - ok
 
 - Escolha uma das funcionalidades que você vai implementar e elabore o protótipo de tela.
   ![Tela de Cadastro da Empresa](Prototipo de tela inicial.PNG)
 
 
 
-### **Questão 4. **Planejamento
+### **Questão 4. **Planejamento  -2
 
 - Escolha uma das funcionalidades que você vai implementar e faça um descrição do que vai ser essa funcionalidades, com seu cenários de uso e regras de negócio.
 Agendamento de Consultas:
@@ -88,7 +88,7 @@ Ao Escolher o serviço será mostrado os horários disponóveis na UBS para esse
 O Usuário ira escolher um horário e confirmar o agendamento.
 Obs: Ao fazer o agendamento o usuário não irá digitar nada, dessa forma fascilita a validação das informações.
 
-### **Questão 5. **Arquitetura
+### **Questão 5. **Arquitetura -2
 - Descreva como será a arquitetura do seu sistema.
 No Front-End:
   1- HTML
