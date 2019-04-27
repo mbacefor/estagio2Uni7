@@ -7,19 +7,19 @@
 | **Aluno:**                                                   |                                        | **Avaliação:**       |
 |                                                              | **V1 – Primeira Chamada**              |                      |
 
-### **Questão 1. **Controle de versão - GIT
+### **Questão 1. **Controle de versão - GIT - 2,0
 
-   - Crie nesta mesma pasta um documento com o mesmo formato mudando para o seu nome completo e responda a prova.
+   - Crie nesta mesma pasta um documento com o mesmo formato mudando para o seu nome completo e responda a prova. -ok
 
-   - Acesse o arquivo README.md da pasta equipe e adicione o seu nome e crie uma nova versão colocando como comentário: "Meu nome é:"+<seu nome completo>
+   - Acesse o arquivo README.md da pasta equipe e adicione o seu nome e crie uma nova versão colocando como comentário: "Meu nome é:"+<seu nome completo> - ok
 
-   - Veja qual é o terceiro comentário (histórico) que existe no arquivo README.md da pasta inicial do repositório.
+   - Veja qual é o terceiro comentário (histórico) que existe no arquivo README.md da pasta inicial do repositório. - ok
    > Foto prof Marcelo
 
-   - Adicione o seu nome no arquivo README.md na pasta projetos. Seu nome deve ser colocado no projeto que você vai participar. Se não tiver o projeto crie.
+   - Adicione o seu nome no arquivo README.md na pasta projetos. Seu nome deve ser colocado no projeto que você vai participar. Se não tiver o projeto crie.-ok
 
      
-### **Questão 2. **xMind
+### **Questão 2. **xMind -2,0
 
 - Adicione o seu nome como membro da equipe no mapa mental se seu projeto. Qual o seu projeto?
 
@@ -28,7 +28,7 @@
    Enviar/Receber documentos, Visualizar status do processo, Definir/Manter tarefas do processo e Atualizar as informações do processo
 
 
-### **Questão 3. **Pencil
+### **Questão 3. **Pencil - 2,0
 
 - Escolha uma das funcionalidades que você vai implementar e elabore o protótipo de tela.
 ![Tela de Upload 1](vitor-imagens/upload1.png)
@@ -38,7 +38,7 @@
 ![Tela de Upload 5](vitor-imagens/upload5.png)
 
 
-### **Questão 4. **Planejamento
+### **Questão 4. **Planejamento - 2,0
 
 - Enviar/Receber documentos
 
@@ -47,7 +47,7 @@
    As extensões permitidas deverão ser .pdf, .jpg e .png, apenas. O tamanho máximo do arquivo será 1MB.
    As validações de extensão e tamanho deverão ser realizadas tanto no frontend quanto no backend.
 
-### **Questão 5. **Arquitetura
+### **Questão 5. **Arquitetura - 2,0
 
 - Descreva como será a arquitetura do seu sistema.
 

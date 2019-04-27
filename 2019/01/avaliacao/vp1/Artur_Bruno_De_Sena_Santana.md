@@ -4,34 +4,33 @@
 | ------------------------------------------------------------ | :------------------------------------- | :------------------- |
 | **Curso:**                                                   | Sistema de Informação                  |                      |
 | **Disciplina:** Estágio II                                   | **Professor (a):**Marcelo Bezerra      | **Data:** 22/03/2019 |
-| **Aluno:** Artur Bruno de Sena Santana		       |                                        | **Avaliação:**       |
+| **Aluno:** Artur Bruno de Sena Santana                       |                                        | **Avaliação:** 9,5   |
 |                                                              | **V1 – Primeira Chamada**              |                      |
 
-### **Questão 1. **Controle de versão - GIT
+### **Questão 1. **Controle de versão - GIT 1,8
 
-   - Crie nesta mesma pasta um documento com o mesmo formato mudando para o seu nome completo e responda a prova.
+   - Crie nesta mesma pasta um documento com o mesmo formato mudando para o seu nome completo e responda a prova. - ok
 
-   - Acesse o arquivo README.md da pasta equipe e adicione o seu nome e crie uma nova versão colocando como comentário: "Meu nome é:"+<seu nome completo>
+   - Acesse o arquivo README.md da pasta equipe e adicione o seu nome e crie uma nova versão colocando como comentário: "Meu nome é:"+<seu nome completo> - Adicionou o nome mas não colocou o nome do commit
 
    - Veja qual é o terceiro comentário (histórico) que existe no arquivo README.md da pasta inicial do repositório.
-	"Foto prof Marcelo"
+	"Foto prof Marcelo" - ok
 
-   - Adicione o seu nome no arquivo README.md na pasta projetos. Seu nome deve ser colocado no projeto que você vai participar. Se não tiver o projeto crie.
+   - Adicione o seu nome no arquivo README.md na pasta projetos. Seu nome deve ser colocado no projeto que você vai participar. Se não tiver o projeto crie. - Ok
 
      
 
-### **Questão 2. **xMind
+### **Questão 2. **xMind - 2
 
 - Adicione o seu nome como membro da equipe no mapa mental se seu projeto. Qual o seu projeto? 
-   **eComTrust**
-
+   **eComTrust** -OK
    - Identifique no mapa mental, quais funcionalidades você vai implementar.
 
-	- Cadastrar Usuário
-	- Autenticação 
-	- Cadastrar
+   - Cadastrar Usuário
+   - Autenticação 
+   - Cadastrar
 
-### **Questão 3. **Pencil
+### **Questão 3. **Pencil - 2
 
 - Escolha uma das funcionalidades que você vai implementar e elabore o protótipo de tela.
 - Cadastrar Usuário
@@ -39,7 +38,7 @@
 [![signup](https://raw.githubusercontent.com/mbacefor/estagio2Uni7/master/2019/01/projetos/eComTrust/cadastrodeusuario.png)]
 
 
-### **Questão 4. **Planejamento
+### **Questão 4. **Planejamento - ok - 1,7
 
 - Escolha uma das funcionalidades que você vai implementar e faça um descrição do que vai ser essa funcionalidades, com seu cenários de uso e regras de negócio.
 
@@ -48,7 +47,7 @@
 Ao acessar o sistema, o usuário poderá realizar seu cadastro para manter seus dados salvos no ecommerce para facilidade de recuperação de suas informações.
 
 
-### **Questão 5. **Arquitetura
+### **Questão 5. **Arquitetura - ok - 2,0
 
 - Descreva como será a arquitetura do seu sistema.
 Frontend:
@@ -59,7 +58,6 @@ Backend:
 
 Base de Dados:
 * PostgreSQL
-
 
 
 

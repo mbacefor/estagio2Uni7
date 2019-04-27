@@ -4,24 +4,24 @@
 | ------------------------------------------------------------ | :------------------------------------- | :------------------- |
 | **Curso:**                                                   | Sistema de Informação                  |                      |
 | **Disciplina:** Estágio II                                   | **Professor (a):**Marcelo Bezerra      | **Data:** 22/03/2019 |
-| **Aluno:**   Bruno Ximenes Ponte                                               |          | **Avaliação:**       |
+| **Aluno:**   Bruno Ximenes Ponte                                               |          | **Avaliação:** 8,5  |
 |                                                              | **V1 – Primeira Chamada**              |                      |
 
-### **Questão 1. **Controle de versão - GIT
+### **Questão 1. **Controle de versão - GIT - 1,2
 
-   - Crie nesta mesma pasta um documento com o mesmo formato mudando para o seu nome completo e responda a prova.
+   - Crie nesta mesma pasta um documento com o mesmo formato mudando para o seu nome completo e responda a prova. - ok
 
-   - Acesse o arquivo README.md da pasta equipe e adicione o seu nome e crie uma nova versão colocando como comentário: "Meu nome é:"+<seu nome completo>
+   - Acesse o arquivo README.md da pasta equipe e adicione o seu nome e crie uma nova versão colocando como comentário: "Meu nome é:"+<seu nome completo> -Tem o nome, mas não tem o commit.
 
-   - Veja qual é o terceiro comentário (histórico) que existe no arquivo README.md da pasta inicial do repositório.
+   - Veja qual é o terceiro comentário (histórico) que existe no arquivo README.md da pasta inicial do repositório. Qual é?
 
-   - Adicione o seu nome no arquivo README.md na pasta projetos. Seu nome deve ser colocado no projeto que você vai participar. Se não tiver o projeto crie.
+   - Adicione o seu nome no arquivo README.md na pasta projetos. Seu nome deve ser colocado no projeto que você vai participar. Se não tiver o projeto crie. - OK
 
      
 
-### **Questão 2. **xMind
+### **Questão 2. **xMind - 1,5
 
-- Adicione o seu nome como membro da equipe no mapa mental se seu projeto. Qual o seu projeto? AdoptPet
+- Adicione o seu nome como membro da equipe no mapa mental se seu projeto. Qual o seu projeto? AdoptPet - Existe o mapa mental, mas não tem indicando quais funcionalidades vai ser implementado por equipe.
 
    - Identifique no mapa mental, quais funcionalidades você vai implementar.
 
@@ -33,7 +33,7 @@
 
 
 
-### **Questão 3. **Pencil
+### **Questão 3. **Pencil - 2,0
 
 - Escolha uma das funcionalidades que você vai implementar e elabore o protótipo de tela.
 - Cadastro de usuário ou abrigo
@@ -41,9 +41,9 @@
 
 
 
-### **Questão 4. **Planejamento
+### **Questão 4. **Planejamento -1,5
 
-- Escolha uma das funcionalidades que você vai implementar e faça um descrição do que vai ser essa funcionalidades, com seu cenários de uso e regras de negócio.
+- Escolha uma das funcionalidades que você vai implementar e faça um descrição do que vai ser essa funcionalidades, com seu cenários de uso e regras de negócio. - Quais serão os campos, como vai editar? Vai poder excluir?
 
 Funcionalidade: Cadastro de usuário ou abrigo
 
@@ -57,11 +57,11 @@ Cenário de uso:
 Regras de Negócio:
 - O usuário deve conter dados pessoais válidos.
 - O usuário deve concordar com os termos de uso e politica de privacidade.
-- É necessária a confirmação do email submetido.
+- É necessária a confirmação do e-mail submetido.
 
 
 
-### **Questão 5. **Arquitetura
+### **Questão 5. **Arquitetura - 2,0
 
 - Descreva como será a arquitetura do seu sistema.
 
@@ -69,7 +69,6 @@ Frontend: React
 Backend: Ruby on Rails
 Banco de Dados: PostgreSQL
 Hospedagem: Heroku
-
 
 
 

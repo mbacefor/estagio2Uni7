@@ -4,26 +4,26 @@
 | ------------------------------------------------------------ | :------------------------------------- | :------------------- |
 | **Curso:**                                                   | Sistema de Informação                  |                      |
 | **Disciplina:** Estágio II                                   | **Professor (a):**Marcelo Bezerra      | **Data:** 22/03/2019 |
-| **Aluno:** Diego Lima Brandão                                |                                        | **Avaliação:**      |
+| **Aluno:** Diego Lima Brandão                                |                                        | **Avaliação:** 9    |
 |                                                              | **V1 – Primeira Chamada**              |                      |
 
-### **Questão 1. **Controle de versão - GIT
+### **Questão 1. **Controle de versão - GIT 1,2
 
-   - Crie nesta mesma pasta um documento com o mesmo formato mudando para o seu nome completo e responda a prova.
+   - Crie nesta mesma pasta um documento com o mesmo formato mudando para o seu nome completo e responda a prova. - ok
 
-   - Acesse o arquivo README.md da pasta equipe e adicione o seu nome e crie uma nova versão colocando como comentário: "Meu nome é:"+<seu nome completo>
+   - Acesse o arquivo README.md da pasta equipe e adicione o seu nome e crie uma nova versão colocando como comentário: "Meu nome é:"+<seu nome completo> - Não colocou o nome
 
       * https://github.com/mbacefor/estagio2Uni7/blob/master/2019/01/projetos/VEC/README.md
 
-   - Veja qual é o terceiro comentário (histórico) que existe no arquivo README.md da pasta inicial do repositório.
+   - Veja qual é o terceiro comentário (histórico) que existe no arquivo README.md da pasta inicial do repositório. - Não colocou
 
-   - Adicione o seu nome no arquivo README.md na pasta projetos. Seu nome deve ser colocado no projeto que você vai participar. Se não tiver o projeto crie.
+   - Adicione o seu nome no arquivo README.md na pasta projetos. Seu nome deve ser colocado no projeto que você vai participar. Se não tiver o projeto crie. -ok
 
       * https://github.com/mbacefor/estagio2Uni7/blob/master/2019/01/projetos/README.md
 
-     
+​     
 
-### **Questão 2. **xMind
+### **Questão 2. **xMind - 2,0 -Não esta bem definido as funcionalidades
 
 - Adicione o seu nome como membro da equipe no mapa mental se seu projeto. Qual o seu projeto?
 
@@ -33,7 +33,7 @@
 
 
 
-### **Questão 3. **Pencil
+### **Questão 3. **Pencil - 2
 
 - Escolha uma das funcionalidades que você vai implementar e elabore o protótipo de tela.
 
@@ -43,14 +43,14 @@
 
 
 
-### **Questão 4. **Planejamento
+### **Questão 4. **Planejamento - 1,8 - Cade as regras e outras funções (editar, inserir, excluir, etc)
 
 - Escolha uma das funcionalidades que você vai implementar e faça um descrição do que vai ser essa funcionalidades, com seu cenários de uso e regras de negócio.
 
    * Cadastro de Fornecedores 
-      * Entrando na tela de cadastro de fornecedores o usuario terá que prencher algumas informações para que possa realizar o cadastro. Dados como nome, endereço , telefone e cpf são cobrados nessa tela de cadastro. Apos preencher essasinformações o usuario pode finalizar o cadastro do fornecedor. 
+      * Entrando na tela de cadastro de fornecedores o usuario terá que prencher algumas informações para que possa realizar o cadastro. Dados como nome, endereço , telefone e cpf são cobrados nessa tela de cadastro. Apos preencher essas informações o usuario pode finalizar o cadastro do fornecedor. 
 
-### **Questão 5. **Arquitetura
+### **Questão 5. **Arquitetura - 2
 
 - Descreva como será a arquitetura do seu sistema.
 
