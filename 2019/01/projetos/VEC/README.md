@@ -13,8 +13,14 @@ Link - tablefilter.free.fr
 #VP2
 
 1 Autenticação e Cadastro de Usuário - Pendente - VP2 - Baixa
+
 2 Cadastro de Cliente - OK (Ajuste do Cadastro de Inserir um novo)
+
 3 Cadastro de Fornecedor - OK (Ajuste do Cadastro de Inserir um novo)
+
 4 Cadastro de Categoria
+
 5 Cadastro de Produto (Cadastro de Categoria e imagem)
+
 6 Cadastro de Mercadorias 
+
