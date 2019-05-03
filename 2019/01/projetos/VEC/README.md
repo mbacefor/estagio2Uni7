@@ -1,3 +1,5 @@
+
+
 # Descrição do projeto
 
 O VEC é um sistema de controle de estoque e vendas que 
@@ -8,7 +10,9 @@ Diego Lima Brandão
 
 Arquitetura de PHP, MySql, AlertFy.js, bootstrap, 
 
-Link - tablefilter.free.fr
+Links 
+
+http://tablefilter.free.fr/
 
 https://github.com/RobinHerbots/Inputmask
 
