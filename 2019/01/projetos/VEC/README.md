@@ -10,6 +10,8 @@ Arquitetura de PHP, MySql, AlertFy.js, bootstrap,
 
 Link - tablefilter.free.fr
 
+https://github.com/RobinHerbots/Inputmask
+
 #VP2
 
 1 Autenticação e Cadastro de Usuário - Pendente - VP2 - Baixa
