@@ -18,3 +18,11 @@ Auxiliar na otimização das despesas domésticas mensais permitindo que usuári
 ### Público Alvo:
 Direcionados a chefes de família que necessitam ter uma maneira prática de indentificar quais despesas fogem das necessidades básicas.
 
+
+Vp2
+
+Cadastro de gasto
+Cadastro de receitas
+Cadastro de contas
+
+

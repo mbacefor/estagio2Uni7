@@ -79,5 +79,12 @@ Entrando no Sistema Web com as credênciais de usuário,
 <font color="#f89"> Mantendo Mesas - Excluindo (_ML0804W_)</font>
 
 
+Vp2
+
+Gestão de usuário
+Login
+Cadastro de produtos
+Cadastro das mesas
+Cadastro de pedidos
 
 
